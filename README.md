@@ -1,1 +1,1 @@
-# Django-PythonPro
+[![Build Status](https://app.travis-ci.com/charlesnoamlael/Django3.svg?branch=master)](https://app.travis-ci.com/charlesnoamlael/Django3)
